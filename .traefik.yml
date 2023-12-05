@@ -1,0 +1,10 @@
+displayName: OpenID Auth Rol
+type: middleware
+
+import: github.com/jorged104/openidauthrol
+
+summary: '[Demo] Http Control OpenId'
+
+testData:
+  url: "https://devauth.phitec.com.gt"
+  realms:  "phitec-test"
